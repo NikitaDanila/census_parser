@@ -1,730 +1,572 @@
-locatii,Afânata
-,Aldești
-,Alunu
-,Amărăști
-,Andreiești
-,Aninoasa
-,Aricioaia
-,Armășești
-,Arsanca
-,Aurești
-,Avrămești
-,Balaciu
-,Balomireasa
-,Balota
-,Barcanele
-,Barza
-,Becșani
-,Benești
-,Berbești
-,Berbești
-,Bercioiu
-,Berești
-,Berislăvești
-,Bistrița
-,Blejani
-,Blidari
-,Blănoiu
-,Bocșa
-,Bodești
-,Bodești
-,Bogdănești
-,Bogdănești
-,Bogdănești
-,Boișoara
-,Bonciu
-,Bondoci
-,Boroșești
-,Botorani
-,Bradu-Clocotici
-,Bratia din Deal
-,Bratia din Vale
-,Bratovești
-,Brezoi
-,Broșteni
-,Brădișor
-,Buciumeni
-,Bucșani
-,Budele
-,Budești
-,Budești
-,Budurăști
-,Bujoreni
-,Bulagei
-,Buleta
-,Bumbuești
-,Bunești
-,Bungețani
-,Burdălești
-,Butanu
-,Buzdugan
-,Bârlogu
-,Bârsești
-,Bârsești
-,Bârsoiu
-,Bârzești
-,Băbeni
-,Băbeni-Oltețu
-,Băbuești
-,Bădeni
-,Băiașa
-,Băiașu
-,Băile Govora
-,Băile Olănești
-,Băjenari
-,Bălcești
-,Bălteni
-,Băluțoaia
-,Bălșoara
-,Bălțățeni
-,Bănești
-,Bănțești
-,Bărbuceni
-,Bărbărigeni
-,Bărbătești
-,Bărcănești
-,Băroiu
-,Bătășani
-,Capu Dealului
-,Carcadiești
-,Casa Veche
-,Ceretu
-,Cermegești
-,Cermegești
-,Cerna
-,Cernelele
-,Cernișoara
-,Cetățeaua
-,Cherăști
-,Chiceni
-,Chirculești
-,Chiricești
-,Cioboți
-,Ciocâltei
-,Ciocănari
-,Cioponești
-,Ciortești
-,Ciorăști
-,Cireșu
-,Cireșul
-,Ciucheți
-,Ciumagi
-,Ciungetu
-,Ciutești
-,Coasta
-,Coasta
-,Coasta Cerbului
-,Coasta Mare
-,Cocoru
-,Colelia
-,Colțești
-,Condoiești
-,Contea
-,Copăceni
-,Copăceni
-,Corbii din Vale
-,Corbu
-,Cornet
-,Costești
-,Coșani
-,Cremenari
-,Crețeni
-,Crângu
-,Cucești
-,Cuci
-,Cucoiu
-,Cuculești
-,Cueni
-,Curtea
-,Câinenii Mari
-,Câinenii Mici
-,Cârlogani
-,Cârstănești
-,Căligi
-,Călimănești
-,Călina
-,Călinești
-,Căzănești
-,Căzănești
-,Cățetu
-,Dealu Bisericii
-,Dealu Corni
-,Dealu Glămeia
-,Dealu Lăunele
-,Dealu Mare
-,Dealu Mare
-,Dealu Mare
-,Dealu Scheiului
-,Dealu Văleni
-,Dejoi
-,Deleni
-,Delureni
-,Delureni
-,Delureni
-,Dezrobiți
-,Diaconești
-,Dianu
-,Diculești
-,Dimulești
-,Dobrești
-,Dobricea
-,Dobriceni
-,Dobrușa
-,Dosu Râului
-,Dozești
-,Drăganu
-,Drăgioiu
-,Drăgoești
-,Drăgulești
-,Drăgănești
-,Drăgănești
-,Drăgășani
-,Dumbrava
-,Dumbrăvești
-,Dângești
-,Dăești
-,Dăești
-,Dăncăi
-,Fedeleșoiu
-,Fețeni
-,Firești
-,Firijba
-,Fișcălia
-,Foleștii de Jos
-,Foleștii de Sus
-,Fotești
-,Frasina
-,Frâncești
-,Frâncești-Coasta
-,Fumureni
-,Fundătura
-,Fârtățești
-,Făurești
-,Făurești
-,Galicea
-,Geamăna
-,Geamăna
-,Genuneni
-,Ghindari
-,Ghiobești
-,Ghioroiu
-,Gibești
-,Ginerica
-,Giulești
-,Giuleștii de Sus
-,Giurgiuveni
-,Giuroiu
-,Glodu
-,Glăvile
-,Golotreni
-,Goranu
-,Gorunești
-,Gorunești
-,Govora
-,Greblești
-,Greci
-,Gropeni
-,Groși
-,Gruieri
-,Gruiu
-,Gruiu Lupului
-,Grădiștea
-,Guguianca
-,Gura Crucilor
-,Gura Văii
-,Gurișoara
-,Gușoeni
-,Gușoianca
-,Gâltofani
-,Gârnicet
-,Gârnicetu
-,Găgeni
-,Găinești
-,Gănești
-,Gănțulei
-,Găujani
-,Găvănești
-,Herăști
-,Horezu
-,Hotarele
-,Hotărasa
-,Hotăroaia
-,Iacovile
-,Ifrimești
-,Igoiu
-,Ilaciu
-,Ionești
-,Irimești
-,Izbășești
-,Izvorașu
-,Izvoru
-,Izvoru Rece
-,Izvoru Rece
-,Jaroștea
-,Laloșu
-,Lespezi
-,Linia
-,Linia
-,Linia Dealului
-,Linia Hanului
-,Linia pe Vale
-,Livezi
-,Lunca
-,Lungești
-,Lupoaia
-,Lupuiești
-,Lăcusteni
-,Lăcustenii de Jos
-,Lăcustenii de Sus
-,Lădești
-,Lăunele de Jos
-,Malaia
-,Malu
-,Malu Alb
-,Malu Vârtop
-,Mamu
-,Marcea
-,Marița
-,Mateești
-,Mecea
-,Meieni
-,Mereșești
-,Mierea
-,Mihăești
-,Mijați
-,Mijlocu
-,Milcoiu
-,Milești
-,Milostea
-,Mirești
-,Mitrofani
-,Mlăceni
-,Modoia
-,Mogești
-,Mogoșești
-,Mologești
-,Moșteni
-,Mrenești
-,Muereasca
-,Muereasca de Sus
-,Munteni
-,Mângureni
-,Măciuceni
-,Mădulari
-,Mădulari
-,Măgura
-,Măgureni
-,Măldărești
-,Măldărești
-,Măldărești
-,Măldăreștii de Jos
-,Măneasa
-,Mănicea
-,Mănăilești
-,Mărcușu
-,Mărgineni
-,Măricești
-,Măzili
-,Măzăraru
-,Neghinești
-,Negraia
-,Negreni
-,Negrulești
-,Nemoiu
-,Nenciulești
-,Nețești
-,Nicolești
-,Nisipi
-,Obislavu
-,Obogeni
-,Obrocești
-,Obârșia
-,Ocnele Mari
-,Ocracu
-,Olanu
-,Olteanca
-,Olteanca
-,Olteni
-,Oltețani
-,Oltețu
-,Opătești
-,Orlești
-,Ostroveni
-,Otetelișu
-,Oteșani
-,Oveselu
-,Padina
-,Palanga
-,Perișani
-,Pertești
-,Pesceana
-,Pietrari
-,Pietrari
-,Pietrarii de Sus
-,Pietreni
-,Pietroasa
-,Piscu Mare
-,Piscu Pietrei
-,Piscu Scoarței
-,Pleașa
-,Pleșești
-,Pleșoiu
-,Pleșoiu
-,Podeni
-,Poenița
-,Poiana
-,Poienari
-,Pojogi-Cerna
-,Popești
-,Popești
-,Popești
-,Popești
-,Popești
-,Popești
-,Popești
-,Popești
-,Popești
-,Portărești
-,Predești
-,Preoțești
-,Priloage
-,Pripoara
-,Pripoare
-,Priporu
-,Procopoaia
-,Prodănești
-,Proieni
-,Prundeni
-,Pârâienii de Jos
-,Pârâienii de Mijloc
-,Pârâienii de Sus
-,Pădurețu
-,Părăușani
-,Păscoaia
-,Păsculești
-,Păsărei
-,Pătești
-,Păușești
-,Păușești-Măglași
-,Păușești-Otăsău
-,Racovița
-,Racovița
-,Racu
-,Robaia
-,Robești
-,Roești
-,Roești
-,Romanești
-,Romanii de Jos
-,Romanii de Sus
-,Români
-,Rotărăști
-,Roșia
-,Roșiile
-,Roșoveni
-,Ruda
-,Rugetu
-,Rugetu
-,Runcu
-,Rusănești
-,Râmești
-,Râmești
-,Râmnicu Vâlcea
-,Râpa Cărămizii
-,Râpănești
-,Râu Vadului
-,Rădăcinești
-,Rățălești
-,Saioci
-,Satu Poieni
-,Scaioși
-,Schitu
-,Scorușu
-,Scundu
-,Scărișoara
-,Scăueni
-,Seaca
-,Seciu
-,Silea
-,Sinești
-,Slătioara
-,Slăvitești
-,Snamăna
-,Spinu
-,Spârleni
-,Stanomiru
-,Stoenești
-,Stoenești
-,Stoiculești
-,Stoicănești
-,Stoilești
-,Streminoasa
-,Stroești
-,Străchinești
-,Stupărei
-,Stănculești
-,Stănești
-,Stănești
-,Stănești-Lunca
-,Sub Deal
-,Suiești
-,Surdoiu
-,Surpatele
-,Surpați
-,Suseni
-,Sutești
-,Sânbotin
-,Sârbi
-,Săliștea
-,Săliștea
-,Sălătrucel
-,Sărsănești
-,Sărulești
-,Sășcioara
-,Tanislavi
-,Teiu
-,Teiul
-,Teiușu
-,Telechești
-,Tepșenari
-,Tetoiu
-,Tighina
-,Tina
-,Titești
-,Titireci
-,Tomșani
-,Trundin
-,Tufanii
-,Tulei-Câmpeni
-,Turburea
-,Turcești
-,Tuțulești
-,Tănăsești
-,Tătărani
-,Udrești
-,Ulmetu
-,Ulmețel
-,Ursoaia
-,Urzica
-,Urșani
-,Urși
-,Urși
-,Ușurei
-,Vaideeni
-,Valea Alunișului
-,Valea Babei
-,Valea Bălcească
-,Valea Caselor
-,Valea Cheii
-,Valea Grădiștei
-,Valea Lungă
-,Valea Mare
-,Valea Mare
-,Valea Măceșului
-,Valea Râului
-,Valea Scheiului
-,Valea Ursului
-,Valea Viei
-,Valea Văleni
-,Valea lui Stan
-,Verdea
-,Vețelu
-,Viișoara
-,Vlădești
-,Vlăduceni
-,Vlădulești
-,Voicești
-,Voiceștii din Vale
-,Voiculeasa
-,Voineasa
-,Voineșița
-,Vulpuești
-,Vârleni
-,Văleni
-,Văleni
-,Vărateci
-,Văratica
-,Văratici
-,Vătășești
-,Zgubea
-,Zmeurătu
-,Zărnești
-,Zătreni
-,Zătrenii de Sus
-,Zăvideni
-,Zăvoieni
-,Șerbăneasa
-,Șerbănești
-,Șerbănești
-,Șerbănești
-,Șerbănești
-,Șirineasa
-,Șolicești
-,Șotani
-,Ștefănești
-,Ștefănești
-,Știrbești
-,Șuricaru
-,Șuta
-,Șușani
-,Țepești
-,Țuțuru
-,
-
-
-v • d • mListe de localități din România grupate pe județe
-
-
-
-
-
-
-
-
-Alba ·
-Arad ·
-Argeș ·
-Bacău ·
-Bihor ·
-Bistrița-Năsăud ·
-Botoșani ·
-Brașov ·
-Brăila ·
-Buzău ·
-Caraș-Severin ·
-Călărași ·
-Cluj ·
-Constanța ·
-Covasna ·
-Dâmbovița ·
-Dolj ·
-Galați ·
-Giurgiu ·
-Gorj ·
-Harghita ·
-Hunedoara ·
-Ialomița ·
-Iași ·
-Ilfov ·
-Maramureș ·
-Mehedinți ·
-Mureș ·
-Neamț ·
-Olt ·
-Prahova ·
-Satu Mare ·
-Sălaj ·
-Sibiu ·
-Suceava ·
-Teleorman ·
-Timiș ·
-Tulcea ·
-Vaslui ·
-Vâlcea ·
-Vrancea
-
-
-
-
-
-AB
-AR
-AG
-BC
-BH
-BN
-BT
-BV
-BR
-BZ
-CS
-CL
-CJ
-CT
-CV
-DB
-DJ
-GL
-GR
-GJ
-HR
-HD
-IL
-IS
-IF
-MM
-MH
-MS
-NT
-OT
-PH
-SM
-SJ
-SB
-SV
-TR
-TM
-TL
-VS
-VL
-VN
-B
-
-
-
-
-
-
-
-
-
-Vezi și: Lista orașelor din România · Liste de comune din România grupate pe județe
-
-,
-
-AB
-AR
-AG
-BC
-BH
-BN
-BT
-BV
-BR
-BZ
-CS
-CL
-CJ
-CT
-CV
-DB
-DJ
-GL
-GR
-GJ
-HR
-HD
-IL
-IS
-IF
-MM
-MH
-MS
-NT
-OT
-PH
-SM
-SJ
-SB
-SV
-TR
-TM
-TL
-VS
-VL
-VN
-B
-
-
-
-
+locatii
+Vâlcea Afânata
+Vâlcea Aldești
+Vâlcea Alunu
+Vâlcea Amărăști
+Vâlcea Andreiești
+Vâlcea Aninoasa
+Vâlcea Aricioaia
+Vâlcea Armășești
+Vâlcea Arsanca
+Vâlcea Aurești
+Vâlcea Avrămești
+Vâlcea Balaciu
+Vâlcea Balomireasa
+Vâlcea Balota
+Vâlcea Barcanele
+Vâlcea Barza
+Vâlcea Becșani
+Vâlcea Benești
+Vâlcea Berbești
+Vâlcea Berbești
+Vâlcea Bercioiu
+Vâlcea Berești
+Vâlcea Berislăvești
+Vâlcea Bistrița
+Vâlcea Blejani
+Vâlcea Blidari
+Vâlcea Blănoiu
+Vâlcea Bocșa
+Vâlcea Bodești
+Vâlcea Bodești
+Vâlcea Bogdănești
+Vâlcea Bogdănești
+Vâlcea Bogdănești
+Vâlcea Boișoara
+Vâlcea Bonciu
+Vâlcea Bondoci
+Vâlcea Boroșești
+Vâlcea Botorani
+Vâlcea Bradu-Clocotici
+Vâlcea Bratia din Deal
+Vâlcea Bratia din Vale
+Vâlcea Bratovești
+Vâlcea Brezoi
+Vâlcea Broșteni
+Vâlcea Brădișor
+Vâlcea Buciumeni
+Vâlcea Bucșani
+Vâlcea Budele
+Vâlcea Budești
+Vâlcea Budești
+Vâlcea Budurăști
+Vâlcea Bujoreni
+Vâlcea Bulagei
+Vâlcea Buleta
+Vâlcea Bumbuești
+Vâlcea Bunești
+Vâlcea Bungețani
+Vâlcea Burdălești
+Vâlcea Butanu
+Vâlcea Buzdugan
+Vâlcea Bârlogu
+Vâlcea Bârsești
+Vâlcea Bârsești
+Vâlcea Bârsoiu
+Vâlcea Bârzești
+Vâlcea Băbeni
+Vâlcea Băbeni-Oltețu
+Vâlcea Băbuești
+Vâlcea Bădeni
+Vâlcea Băiașa
+Vâlcea Băiașu
+Vâlcea Băile Govora
+Vâlcea Băile Olănești
+Vâlcea Băjenari
+Vâlcea Bălcești
+Vâlcea Bălteni
+Vâlcea Băluțoaia
+Vâlcea Bălșoara
+Vâlcea Bălțățeni
+Vâlcea Bănești
+Vâlcea Bănțești
+Vâlcea Bărbuceni
+Vâlcea Bărbărigeni
+Vâlcea Bărbătești
+Vâlcea Bărcănești
+Vâlcea Băroiu
+Vâlcea Bătășani
+Vâlcea Capu Dealului
+Vâlcea Carcadiești
+Vâlcea Casa Veche
+Vâlcea Ceretu
+Vâlcea Cermegești
+Vâlcea Cermegești
+Vâlcea Cerna
+Vâlcea Cernelele
+Vâlcea Cernișoara
+Vâlcea Cetățeaua
+Vâlcea Cherăști
+Vâlcea Chiceni
+Vâlcea Chirculești
+Vâlcea Chiricești
+Vâlcea Cioboți
+Vâlcea Ciocâltei
+Vâlcea Ciocănari
+Vâlcea Cioponești
+Vâlcea Ciortești
+Vâlcea Ciorăști
+Vâlcea Cireșu
+Vâlcea Cireșul
+Vâlcea Ciucheți
+Vâlcea Ciumagi
+Vâlcea Ciungetu
+Vâlcea Ciutești
+Vâlcea Coasta
+Vâlcea Coasta
+Vâlcea Coasta Cerbului
+Vâlcea Coasta Mare
+Vâlcea Cocoru
+Vâlcea Colelia
+Vâlcea Colțești
+Vâlcea Condoiești
+Vâlcea Contea
+Vâlcea Copăceni
+Vâlcea Copăceni
+Vâlcea Corbii din Vale
+Vâlcea Corbu
+Vâlcea Cornet
+Vâlcea Costești
+Vâlcea Coșani
+Vâlcea Cremenari
+Vâlcea Crețeni
+Vâlcea Crângu
+Vâlcea Cucești
+Vâlcea Cuci
+Vâlcea Cucoiu
+Vâlcea Cuculești
+Vâlcea Cueni
+Vâlcea Curtea
+Vâlcea Câinenii Mari
+Vâlcea Câinenii Mici
+Vâlcea Cârlogani
+Vâlcea Cârstănești
+Vâlcea Căligi
+Vâlcea Călimănești
+Vâlcea Călina
+Vâlcea Călinești
+Vâlcea Căzănești
+Vâlcea Căzănești
+Vâlcea Cățetu
+Vâlcea Dealu Bisericii
+Vâlcea Dealu Corni
+Vâlcea Dealu Glămeia
+Vâlcea Dealu Lăunele
+Vâlcea Dealu Mare
+Vâlcea Dealu Mare
+Vâlcea Dealu Mare
+Vâlcea Dealu Scheiului
+Vâlcea Dealu Văleni
+Vâlcea Dejoi
+Vâlcea Deleni
+Vâlcea Delureni
+Vâlcea Delureni
+Vâlcea Delureni
+Vâlcea Dezrobiți
+Vâlcea Diaconești
+Vâlcea Dianu
+Vâlcea Diculești
+Vâlcea Dimulești
+Vâlcea Dobrești
+Vâlcea Dobricea
+Vâlcea Dobriceni
+Vâlcea Dobrușa
+Vâlcea Dosu Râului
+Vâlcea Dozești
+Vâlcea Drăganu
+Vâlcea Drăgioiu
+Vâlcea Drăgoești
+Vâlcea Drăgulești
+Vâlcea Drăgănești
+Vâlcea Drăgănești
+Vâlcea Drăgășani
+Vâlcea Dumbrava
+Vâlcea Dumbrăvești
+Vâlcea Dângești
+Vâlcea Dăești
+Vâlcea Dăești
+Vâlcea Dăncăi
+Vâlcea Fedeleșoiu
+Vâlcea Fețeni
+Vâlcea Firești
+Vâlcea Firijba
+Vâlcea Fișcălia
+Vâlcea Foleștii de Jos
+Vâlcea Foleștii de Sus
+Vâlcea Fotești
+Vâlcea Frasina
+Vâlcea Frâncești
+Vâlcea Frâncești-Coasta
+Vâlcea Fumureni
+Vâlcea Fundătura
+Vâlcea Fârtățești
+Vâlcea Făurești
+Vâlcea Făurești
+Vâlcea Galicea
+Vâlcea Geamăna
+Vâlcea Geamăna
+Vâlcea Genuneni
+Vâlcea Ghindari
+Vâlcea Ghiobești
+Vâlcea Ghioroiu
+Vâlcea Gibești
+Vâlcea Ginerica
+Vâlcea Giulești
+Vâlcea Giuleștii de Sus
+Vâlcea Giurgiuveni
+Vâlcea Giuroiu
+Vâlcea Glodu
+Vâlcea Glăvile
+Vâlcea Golotreni
+Vâlcea Goranu
+Vâlcea Gorunești
+Vâlcea Gorunești
+Vâlcea Govora
+Vâlcea Greblești
+Vâlcea Greci
+Vâlcea Gropeni
+Vâlcea Groși
+Vâlcea Gruieri
+Vâlcea Gruiu
+Vâlcea Gruiu Lupului
+Vâlcea Grădiștea
+Vâlcea Guguianca
+Vâlcea Gura Crucilor
+Vâlcea Gura Văii
+Vâlcea Gurișoara
+Vâlcea Gușoeni
+Vâlcea Gușoianca
+Vâlcea Gâltofani
+Vâlcea Gârnicet
+Vâlcea Gârnicetu
+Vâlcea Găgeni
+Vâlcea Găinești
+Vâlcea Gănești
+Vâlcea Gănțulei
+Vâlcea Găujani
+Vâlcea Găvănești
+Vâlcea Herăști
+Vâlcea Horezu
+Vâlcea Hotarele
+Vâlcea Hotărasa
+Vâlcea Hotăroaia
+Vâlcea Iacovile
+Vâlcea Ifrimești
+Vâlcea Igoiu
+Vâlcea Ilaciu
+Vâlcea Ionești
+Vâlcea Irimești
+Vâlcea Izbășești
+Vâlcea Izvorașu
+Vâlcea Izvoru
+Vâlcea Izvoru Rece
+Vâlcea Izvoru Rece
+Vâlcea Jaroștea
+Vâlcea Laloșu
+Vâlcea Lespezi
+Vâlcea Linia
+Vâlcea Linia
+Vâlcea Linia Dealului
+Vâlcea Linia Hanului
+Vâlcea Linia pe Vale
+Vâlcea Livezi
+Vâlcea Lunca
+Vâlcea Lungești
+Vâlcea Lupoaia
+Vâlcea Lupuiești
+Vâlcea Lăcusteni
+Vâlcea Lăcustenii de Jos
+Vâlcea Lăcustenii de Sus
+Vâlcea Lădești
+Vâlcea Lăunele de Jos
+Vâlcea Malaia
+Vâlcea Malu
+Vâlcea Malu Alb
+Vâlcea Malu Vârtop
+Vâlcea Mamu
+Vâlcea Marcea
+Vâlcea Marița
+Vâlcea Mateești
+Vâlcea Mecea
+Vâlcea Meieni
+Vâlcea Mereșești
+Vâlcea Mierea
+Vâlcea Mihăești
+Vâlcea Mijați
+Vâlcea Mijlocu
+Vâlcea Milcoiu
+Vâlcea Milești
+Vâlcea Milostea
+Vâlcea Mirești
+Vâlcea Mitrofani
+Vâlcea Mlăceni
+Vâlcea Modoia
+Vâlcea Mogești
+Vâlcea Mogoșești
+Vâlcea Mologești
+Vâlcea Moșteni
+Vâlcea Mrenești
+Vâlcea Muereasca
+Vâlcea Muereasca de Sus
+Vâlcea Munteni
+Vâlcea Mângureni
+Vâlcea Măciuceni
+Vâlcea Mădulari
+Vâlcea Mădulari
+Vâlcea Măgura
+Vâlcea Măgureni
+Vâlcea Măldărești
+Vâlcea Măldărești
+Vâlcea Măldărești
+Vâlcea Măldăreștii de Jos
+Vâlcea Măneasa
+Vâlcea Mănicea
+Vâlcea Mănăilești
+Vâlcea Mărcușu
+Vâlcea Mărgineni
+Vâlcea Măricești
+Vâlcea Măzili
+Vâlcea Măzăraru
+Vâlcea Neghinești
+Vâlcea Negraia
+Vâlcea Negreni
+Vâlcea Negrulești
+Vâlcea Nemoiu
+Vâlcea Nenciulești
+Vâlcea Nețești
+Vâlcea Nicolești
+Vâlcea Nisipi
+Vâlcea Obislavu
+Vâlcea Obogeni
+Vâlcea Obrocești
+Vâlcea Obârșia
+Vâlcea Ocnele Mari
+Vâlcea Ocracu
+Vâlcea Olanu
+Vâlcea Olteanca
+Vâlcea Olteanca
+Vâlcea Olteni
+Vâlcea Oltețani
+Vâlcea Oltețu
+Vâlcea Opătești
+Vâlcea Orlești
+Vâlcea Ostroveni
+Vâlcea Otetelișu
+Vâlcea Oteșani
+Vâlcea Oveselu
+Vâlcea Padina
+Vâlcea Palanga
+Vâlcea Perișani
+Vâlcea Pertești
+Vâlcea Pesceana
+Vâlcea Pietrari
+Vâlcea Pietrari
+Vâlcea Pietrarii de Sus
+Vâlcea Pietreni
+Vâlcea Pietroasa
+Vâlcea Piscu Mare
+Vâlcea Piscu Pietrei
+Vâlcea Piscu Scoarței
+Vâlcea Pleașa
+Vâlcea Pleșești
+Vâlcea Pleșoiu
+Vâlcea Pleșoiu
+Vâlcea Podeni
+Vâlcea Poenița
+Vâlcea Poiana
+Vâlcea Poienari
+Vâlcea Pojogi-Cerna
+Vâlcea Popești
+Vâlcea Popești
+Vâlcea Popești
+Vâlcea Popești
+Vâlcea Popești
+Vâlcea Popești
+Vâlcea Popești
+Vâlcea Popești
+Vâlcea Popești
+Vâlcea Portărești
+Vâlcea Predești
+Vâlcea Preoțești
+Vâlcea Priloage
+Vâlcea Pripoara
+Vâlcea Pripoare
+Vâlcea Priporu
+Vâlcea Procopoaia
+Vâlcea Prodănești
+Vâlcea Proieni
+Vâlcea Prundeni
+Vâlcea Pârâienii de Jos
+Vâlcea Pârâienii de Mijloc
+Vâlcea Pârâienii de Sus
+Vâlcea Pădurețu
+Vâlcea Părăușani
+Vâlcea Păscoaia
+Vâlcea Păsculești
+Vâlcea Păsărei
+Vâlcea Pătești
+Vâlcea Păușești
+Vâlcea Păușești-Măglași
+Vâlcea Păușești-Otăsău
+Vâlcea Racovița
+Vâlcea Racovița
+Vâlcea Racu
+Vâlcea Robaia
+Vâlcea Robești
+Vâlcea Roești
+Vâlcea Roești
+Vâlcea Romanești
+Vâlcea Romanii de Jos
+Vâlcea Romanii de Sus
+Vâlcea Români
+Vâlcea Rotărăști
+Vâlcea Roșia
+Vâlcea Roșiile
+Vâlcea Roșoveni
+Vâlcea Ruda
+Vâlcea Rugetu
+Vâlcea Rugetu
+Vâlcea Runcu
+Vâlcea Rusănești
+Vâlcea Râmești
+Vâlcea Râmești
+Vâlcea Râmnicu Vâlcea
+Vâlcea Râpa Cărămizii
+Vâlcea Râpănești
+Vâlcea Râu Vadului
+Vâlcea Rădăcinești
+Vâlcea Rățălești
+Vâlcea Saioci
+Vâlcea Satu Poieni
+Vâlcea Scaioși
+Vâlcea Schitu
+Vâlcea Scorușu
+Vâlcea Scundu
+Vâlcea Scărișoara
+Vâlcea Scăueni
+Vâlcea Seaca
+Vâlcea Seciu
+Vâlcea Silea
+Vâlcea Sinești
+Vâlcea Slătioara
+Vâlcea Slăvitești
+Vâlcea Snamăna
+Vâlcea Spinu
+Vâlcea Spârleni
+Vâlcea Stanomiru
+Vâlcea Stoenești
+Vâlcea Stoenești
+Vâlcea Stoiculești
+Vâlcea Stoicănești
+Vâlcea Stoilești
+Vâlcea Streminoasa
+Vâlcea Stroești
+Vâlcea Străchinești
+Vâlcea Stupărei
+Vâlcea Stănculești
+Vâlcea Stănești
+Vâlcea Stănești
+Vâlcea Stănești-Lunca
+Vâlcea Sub Deal
+Vâlcea Suiești
+Vâlcea Surdoiu
+Vâlcea Surpatele
+Vâlcea Surpați
+Vâlcea Suseni
+Vâlcea Sutești
+Vâlcea Sânbotin
+Vâlcea Sârbi
+Vâlcea Săliștea
+Vâlcea Săliștea
+Vâlcea Sălătrucel
+Vâlcea Sărsănești
+Vâlcea Sărulești
+Vâlcea Sășcioara
+Vâlcea Tanislavi
+Vâlcea Teiu
+Vâlcea Teiul
+Vâlcea Teiușu
+Vâlcea Telechești
+Vâlcea Tepșenari
+Vâlcea Tetoiu
+Vâlcea Tighina
+Vâlcea Tina
+Vâlcea Titești
+Vâlcea Titireci
+Vâlcea Tomșani
+Vâlcea Trundin
+Vâlcea Tufanii
+Vâlcea Tulei-Câmpeni
+Vâlcea Turburea
+Vâlcea Turcești
+Vâlcea Tuțulești
+Vâlcea Tănăsești
+Vâlcea Tătărani
+Vâlcea Udrești
+Vâlcea Ulmetu
+Vâlcea Ulmețel
+Vâlcea Ursoaia
+Vâlcea Urzica
+Vâlcea Urșani
+Vâlcea Urși
+Vâlcea Urși
+Vâlcea Ușurei
+Vâlcea Vaideeni
+Vâlcea Valea Alunișului
+Vâlcea Valea Babei
+Vâlcea Valea Bălcească
+Vâlcea Valea Caselor
+Vâlcea Valea Cheii
+Vâlcea Valea Grădiștei
+Vâlcea Valea Lungă
+Vâlcea Valea Mare
+Vâlcea Valea Mare
+Vâlcea Valea Măceșului
+Vâlcea Valea Râului
+Vâlcea Valea Scheiului
+Vâlcea Valea Ursului
+Vâlcea Valea Viei
+Vâlcea Valea Văleni
+Vâlcea Valea lui Stan
+Vâlcea Verdea
+Vâlcea Vețelu
+Vâlcea Viișoara
+Vâlcea Vlădești
+Vâlcea Vlăduceni
+Vâlcea Vlădulești
+Vâlcea Voicești
+Vâlcea Voiceștii din Vale
+Vâlcea Voiculeasa
+Vâlcea Voineasa
+Vâlcea Voineșița
+Vâlcea Vulpuești
+Vâlcea Vârleni
+Vâlcea Văleni
+Vâlcea Văleni
+Vâlcea Vărateci
+Vâlcea Văratica
+Vâlcea Văratici
+Vâlcea Vătășești
+Vâlcea Zgubea
+Vâlcea Zmeurătu
+Vâlcea Zărnești
+Vâlcea Zătreni
+Vâlcea Zătrenii de Sus
+Vâlcea Zăvideni
+Vâlcea Zăvoieni
+Vâlcea Șerbăneasa
+Vâlcea Șerbănești
+Vâlcea Șerbănești
+Vâlcea Șerbănești
+Vâlcea Șerbănești
+Vâlcea Șirineasa
+Vâlcea Șolicești
+Vâlcea Șotani
+Vâlcea Ștefănești
+Vâlcea Ștefănești
+Vâlcea Știrbești
+Vâlcea Șuricaru
+Vâlcea Șuta
+Vâlcea Șușani
+Vâlcea Țepești
+Vâlcea Țuțuru
